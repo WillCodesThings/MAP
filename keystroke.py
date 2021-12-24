@@ -86,8 +86,8 @@ def find_lava():
 duration = 300
 print("What would you like to do?")
 print("1 |  Auto-Mine")
-print("2 |  Auto-Sprint(With hole detection)")
-print("3 |  TAS")
+print("2 | WIP Auto-Sprint(With hole detection)")
+print("3 | WIP TAS")
 choice = input("")
 if choice == "1":
     print("Starting in 5")
